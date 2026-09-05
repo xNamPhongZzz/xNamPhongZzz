@@ -73,16 +73,6 @@
 
 ---
 
-![Trophies](https://img.shields.io/badge/-GitHub%20Trophies-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xNamPhongZzz&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ![Quote](https://img.shields.io/badge/-Random%20Dev%20Quote-2ea44f?style=for-the-badge&logo=quotient&logoColor=white)
 
 <div align="center">
