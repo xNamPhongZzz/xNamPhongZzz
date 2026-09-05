@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xNamPhongZzz/xNamPhongZzz/main/banner.svg" width="100%" alt="banner"/>
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=44CC11&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nam+Phong;Minecraft+Plugin+%26+Server+Developer;Java+%7C+Kotlin+%7C+Spigot+%7C+Paper;Build+Cool+Stuff+for+Minecraft" alt="Typing SVG" />
 
