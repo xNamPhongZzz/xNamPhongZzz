@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://developers.giphy.com/branch/master/static/api-512d36c0966268271708a38bbb5c57d.gif" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:8BC34A&height=220&section=header&text=Minecraft%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Plugin%20%7C%20Server%20%7C%20Mod%20Developer&descAlignY=62&descSize=20" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=44CC11&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nam+Phong;Minecraft+Plugin+%26+Server+Developer;Java+%7C+Kotlin+%7C+Spigot+%7C+Paper;Build+Cool+Stuff+for+Minecraft+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=44CC11&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Nam+Phong;Minecraft+Plugin+%26+Server+Developer;Java+%7C+Kotlin+%7C+Spigot+%7C+Paper;Build+Cool+Stuff+for+Minecraft" alt="Typing SVG" />
 
 </div>
 
